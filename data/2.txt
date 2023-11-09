@@ -1,0 +1,18 @@
+4
+ldi 1,10
+ldi 2,20
+ldi 6,1000
+add 3,1,2
+st 3,6
+addi 6,6,1
+sub 4,1,2
+st 4,6
+addi 6,6,1
+and 7,1,2
+st 7,6
+addi 6,6,1
+or 8,1,2
+st 8,6
+addi 6,6,1
+xor 9,1,2
+st 9,6
