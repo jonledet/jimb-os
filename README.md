@@ -1,6 +1,18 @@
 Built Using Python 3.11.2
 # CPU Scheduling Simulation Program (jimb-os)
 
+# Table of Contents
+
+1. [Process Class Documentation](#process-class-documentation)
+   
+2. [Scheduler Class Documentation](#scheduler-class-documentation)
+   
+3. [CPU Class Documentation](#cpu-class-documentation)
+   
+4. [Memory Class Documentation](#memory-class-documentation)
+   
+5. [Main Class Documentation](#main-class-documentation)
+
 ## Process Class Documentation
 
 ### Overview
